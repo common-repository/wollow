@@ -1,0 +1,57 @@
+.fa {
+    font-size: 9px !important;
+    color: #31D39F;
+}
+
+.button_icon {
+    padding: 5px 6px; 
+    border: 1px solid gray; 
+    border-radius: 5px; 
+    background: white; 
+    cursor: pointer; 
+    margin: 1px; 
+    min-height: 35px; 
+    min-width: 35px; 
+}
+
+.phone-completed {
+    cursor: pointer;
+    color: white;
+    background: #31D39F;
+    border-color: #31D39F;
+}
+
+.post-type-shop_order .wp-list-table tbody td,
+.post-type-shop_order .wp-list-table tbody th {
+    padding: 1em;
+}
+
+form {
+    display: inline-block;
+}
+
+.post-type-shop_order .wp-list-table td,
+.post-type-shop_order .wp-list-table th {
+    width: 15ch;
+}
+
+.ijo {
+    cursor: pointer;
+    background-color: #31D39F;
+    border-color: #31D39F;
+    color: white;
+}
+
+.button.topup-adk {
+    padding: 2px 16px;
+    background: #F05C3F;
+    border: none;
+    border-radius: 8px;
+}
+
+.button.topup-adk:hover {
+    padding: 2px 16px;
+    background: #F05C3F;
+    border: none;
+    border-radius: 8px;
+}
